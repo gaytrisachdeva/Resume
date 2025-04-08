@@ -29,7 +29,7 @@ Welcome to my academic portfolio! I'm a final-year Chemical Engineering undergra
 - Electrochemical calibration and chronoamperometry testing.
 - *Patent Filed*:  
   **Title** – *Design of a Non-Invasive Continuous Glucose Analytical Device (GADget)*  
-  *pre-inculabetion at i2EDC IIT Jammu; ₹4L funding received.*
+  *pre-incubation at i2EDC IIT Jammu; ₹4L funding received.*
 
 ### 🔸 Porous Media Modelling – IIT Jammu (Feb 2024–Present)
 - Created mathematical models for fluid transport using **Richards Equation**.
